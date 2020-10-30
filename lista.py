@@ -1,2 +1,2 @@
-El conejo comía feliz cardillo y kiwi
+El conejo comía cardillo y kiwi
 El elefante comía mazorcas
