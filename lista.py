@@ -1,2 +1,3 @@
-El conejo comía cardillo y kiwi
+El conejo comía cardillo y kiwi todos los días
 El elefante comía mazorcas
+Python
